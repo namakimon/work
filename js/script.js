@@ -30,4 +30,3 @@ function myFirstApp(name, age) {
 
 }
 	myFirstApp("Ivan", 32);
-	myFirstApp("bober", 2);
